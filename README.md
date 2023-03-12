@@ -23,7 +23,7 @@ To view a live example, [click here.](https://lordsauron5.github.io/DICE-DOM-CHA
 - If your die value is higher than the computers, YOU WIN!
 
 
-###Screenshots
+### Screenshots
 
 
 ![](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2M2ODhkN2QyNDYyYTIyZDA0MjFkNGVhZWVmMDc5MjkzNWI3ZWNhYSZjdD1n/qEE9bY3XLY0EpznsS4/giphy.gif)
