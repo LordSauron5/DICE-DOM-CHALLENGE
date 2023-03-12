@@ -18,7 +18,7 @@ To view a live example, [click here.](https://lordsauron5.github.io/DICE-DOM-CHA
 
 ### How it works
 
-- On load, the system will generate a radom 2 digits for each dice.
+- On load, the system will generate a random 2 digits for each dice.
 - Refresh the screen to roll again.
 - If your die value is higher than the computers, YOU WIN!
 
